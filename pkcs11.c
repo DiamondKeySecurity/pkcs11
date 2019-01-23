@@ -116,7 +116,7 @@
 #endif
 
 #ifndef DEBUG_PKCS11
-#define DEBUG_PKCS11    1
+#define DEBUG_PKCS11    0
 #endif
 
 /*
