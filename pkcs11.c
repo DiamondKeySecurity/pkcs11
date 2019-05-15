@@ -94,17 +94,17 @@
  * Some of this really should be coming from RPC queries.
  */
 
-#define P11_MANUFACTURER_ID     "Diamond Key Security, NFP"
+#define P11_MANUFACTURER_ID     "DiamondKeySecurity"
 #define P11_TOKEN_LABEL		"Diamond-HSM-Token"
 #define P11_BOARD_MODEL		"DiamondHSM"
 #define P11_BOARD_SERIAL	"001"
 #define P11_LIBRARY_DESCRIPTION	"libcryptechdks-pkcs11.so"
-#define	P11_SLOT_DESCRIPTION	"Diamond HSM slot"
+#define	P11_SLOT_DESCRIPTION	"Diamond-HSM-slot"
 #define P11_VERSION_HW_MAJOR    0
-#define P11_VERSION_HW_MINOR    3
-#define P11_VERSION_FW_MAJOR    3
+#define P11_VERSION_HW_MINOR    1
+#define P11_VERSION_FW_MAJOR    1
 #define P11_VERSION_FW_MINOR    0
-#define P11_VERSION_SW_MAJOR    3
+#define P11_VERSION_SW_MAJOR    1
 #define P11_VERSION_SW_MINOR    0
 
 /*
